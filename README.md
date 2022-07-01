@@ -1,4 +1,6 @@
 # Ianvs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimmyYang20%2Fianvs-dev.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimmyYang20%2Fianvs-dev?ref=badge_shield)
+
 Ianvs is a distributed synergy AI benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the performance of distributed synergy AI solutions following recognized standards, in order to facilitate more efficient and effective development. More detailedly, Ianvs prepares not only test cases with datasets and corresponding algorithms, but also benchmarking tools including simulation and hyper-parameter searching. Ianvs also revealing best practices for developers and end users with presentation tools including leaderboards and test reports. 
 
 ## Scope
@@ -98,3 +100,5 @@ If you're interested in being a contributor and want to get involved in developi
 ## License
 
 Ianvs is under the Apache 2.0 license. See the [LICENSE](LICENSE) file for details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJimmyYang20%2Fianvs-dev.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJimmyYang20%2Fianvs-dev?ref=badge_large)
